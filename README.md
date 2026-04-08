@@ -35,3 +35,5 @@ Built data model and relationships
 Performed time-based analysis (yearly trends)
 Designed interactive dashboards with visuals 
 Generated insights for business understanding
+
+📷 Dashboard Preview
